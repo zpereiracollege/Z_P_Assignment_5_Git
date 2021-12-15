@@ -1,6 +1,6 @@
 (()=> {
     "use strict"
 
-    console.log("I have been pushed to the github project");
+    console.log("Modified the script file from github online");
 
 })(); 
